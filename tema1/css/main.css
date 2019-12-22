@@ -1,0 +1,22 @@
+body {
+	background-color: #ce8d99;
+
+}
+
+.titlu {
+	text-align: center;
+}
+
+.first-row {
+	margin-top: 7em;
+}
+
+.nav-col {
+	background-color: #6e5255;
+}
+.content {
+	background-color: #6e5255;
+	padding: 2em;
+	border-radius: 2rem;
+	box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
